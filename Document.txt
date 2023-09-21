@@ -1,0 +1,82 @@
+1. What is SEO and explain the importance of SEO?
+SEO stands for search engine optimization—the practice of increasing the quantity and quality of traffic to your website through organic search engine results. The ultimate goal of SEO for business is to generate organic traffic—searchers clicking through to your website from a search engine results page.
+2. Create an HTML document with appropriate <title> and <meta> tags for SEO optimization. Ensure the title is descriptive and the meta description is concise.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Italian Restaurants in New York City - Delicious Pasta & Pizza</title>
+    <meta name="description" content="search the content on physics wallah course">
+</head>
+<body>
+    <!-- Your website content goes here -->
+    <h1>pw skills</h1>
+</body>
+</html>
+3. What are the Benefits of Using meta tags
+By using meta tags, you can make sure browsers and search engines behave as you want them to, and display your content in SERPs according to your preferences. Learn about the most important meta tags for SEO: meta title, meta description, meta robots and what other tags are commonly mistaken for meta tags!
+4. Create an HTML document that properly incorporates semantic elements like <header>, <article>, <section>, or <nav> to improve SEO and document structure.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Physics wallah free courese</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Physics wallah
+        </h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <article>
+            <header>
+                <h2>How to Use Semantic HTML</h2>
+                <p>Published on <time datetime="2023-09-21">September 21, 2023</time> by John Doe</p>
+            </header>
+            <p>Semantic HTML elements are essential for creating a well-structured and accessible web page. They not only improve SEO but also enhance the readability and usability of your content.</p>
+            <p>In this article, we will explore some common semantic elements and how to use them effectively in your HTML documents.</p>
+        </article>
+
+        <article>
+            <header>
+                <h2>The Importance of Semantic Elements</h2>
+                <p>Published on <time datetime="2023-09-22">September 22, 2023</time> by Jane Smith</p>
+            </header>
+            <p>Semantic elements, such as &lt;header&gt;, &lt;section&gt;, and &lt;nav&gt;, provide meaning to the structure of a webpage. They help assistive technologies, like screen readers, understand the content and convey it accurately to users with disabilities.</p>
+            <p>Additionally, search engines can better index and rank your content when you use semantic elements appropriately.</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Physics Wallah. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+5. Define Favicon and give an illustrative example.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://yt3.googleusercontent.com/Xs2vzNkGJ9Q7dxuuqJBqOaaYh9o5vtHEZNutNgNIQdFp-rXulGjaoEoMpnmfWZs2WSXg8eh5=s176-c-k-c0x00ffffff-no-rj" type="image/x-icon">
+    <title>Physics wallah</title>
+</head>
+<body>
+    <!-- Your website content goes here -->
+    <!-- Example content -->
+    <h1>Welcome to Web page</h1>
+    <p>This is a sample webpage with a favicon.</p>
+</body>
+</html>
+
+
